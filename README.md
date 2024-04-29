@@ -1,7 +1,6 @@
 **AMMINOVATE 2024**
 
 To run the project locally ,
-mail me at jash.rashne@gmail.com for the .env file.
 
 cd DB > npm i <br>
 cd DB > node server.js <br>
