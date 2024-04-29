@@ -1,4 +1,4 @@
-**AMMINOVATE 2024**
+**Vidyarthi**
 
 To run the project locally ,
 
